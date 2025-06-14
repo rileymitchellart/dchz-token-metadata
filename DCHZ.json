@@ -2,7 +2,7 @@
   "name": "DoubleCheeseburgerSol",
   "symbol": "DCHZ",
   "description": "Boy this stuff is good",
-  "image": "https://rileymitchellart.github.io/dchz-token-metadata/token-image.png",
+  "image": "https://raw.githubusercontent.com/rileymitchellart/dchz-token-metadata/cf06d27015de0cc2134dc2500cb359264ac7cf85/token-image.png",
   "attributes": [
     {
       "trait_type": "Flavor",
